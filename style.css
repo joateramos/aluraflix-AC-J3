@@ -20,5 +20,5 @@ img{
 .categorias_videos{
     display: flex;
     overflow-x: auto;
-    gap: 20 px;
+    gap: 15 px;
 }
