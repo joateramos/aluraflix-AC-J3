@@ -17,3 +17,8 @@ section{
 img{
     height: 200px;
 }
+.categorias_videos{
+    font-display: flex;
+    overflow-x: auto;
+    gap: 10 px;
+}
